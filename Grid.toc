@@ -1,0 +1,12 @@
+## Interface: 90205
+## Title: AzerothTracker
+## Notes: Data for machine learning about the WoW environment especially combat.
+## Update to current WoW build with: /run print((select(4, GetBuildInfo())));
+CLEU.lua
+SharedDataTables.lua
+Paladin.lua
+Priest.lua
+Warrior.lua
+Combat.lua
+UpdateGrid.lua
+Grid.lua
